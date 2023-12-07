@@ -1,3 +1,6 @@
+#! usr/bin/envRscript
+
+
 setwd("D://big_data")
 
 
